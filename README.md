@@ -9,7 +9,7 @@
 - 🎓 I am working as an Admission Data Analyst at the University of Wisconsin-Milwaukee, where my primary responsibility is to analyze admissions data to improve recruitment strategies and decision-making processes. Using advanced statistical techniques and data analysis tools, I identify trends, forecast enrollment numbers, and collaborate with various departments to optimize admissions strategies. My role ensures data integrity and compliance with regulations while contributing to the university's success in attracting top talent.
 - 📫 You can reach me at **ashmibaral2051@gmail.com**
 
-## <font color="blue">Education</font>
+## <font color=" dark blue">Education</font>
 
 
 - **The University of New Mexico, Albuquerque, NM**
