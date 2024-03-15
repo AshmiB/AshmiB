@@ -1,11 +1,13 @@
 [![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM29qN3d3dGxoaDc1Mjd4YTdscm9hZjA4OWM0aThibWMwM3ZrdTF4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif)](https://github.com/AshmiB/AshmiB)
 
+
 <h1 align="center">Hi 👋, I'm Ashmi Baral</h1>
-<h3 align="center">I am open to full-time positions as a Data Engineer, Business Analyst, Data Analyst</h3>
+                              <h3 align="center">I AM OPEN TO FULL-TIME POSITIONS AS A DATA ENGINEER, BUSINESS ANALYST, DATA ANALYST </h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I am a recent graduate in the field of Cybersecurity and Business Analytics from the University of New Mexico **Cybersecurity and Business Analytics**
+  
 - 🎓 I am working as an Admission Data Analyst at the University of Wisconsin-Milwaukee, where my primary responsibility is to analyze admissions data to improve recruitment strategies and decision-making processes. Using advanced statistical techniques and data analysis tools, I identify trends, forecast enrollment numbers, and collaborate with various departments to optimize admissions strategies. My role ensures data integrity and compliance with regulations while contributing to the university's success in attracting top talent.
 - 📫 You can reach me at **ashmibaral2051@gmail.com**
 
